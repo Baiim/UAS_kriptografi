@@ -5,22 +5,22 @@ Enkrip dan Dekrip
 Perintah Enkrip dan Dekrip pada CMD :
 
 
-![](https://raw.githubusercontent.com/Baiim/kriptografi-2/master/kripto2/Screenshot%202023-01-08%20044245.png)
+![](https://raw.githubusercontent.com/Baiim/UAS_kriptografi/master/img/Proses.png)
 
 Plainteks :
 
 
-![](https://raw.githubusercontent.com/Baiim/kriptografi-2/master/kripto2/Screenshot%202023-01-08%20044434.png)
+![](https://raw.githubusercontent.com/Baiim/UAS_kriptografi/master/img/plain.png)
 
 
 Chiperteks :
 
 
-![](https://raw.githubusercontent.com/Baiim/kriptografi-2/master/kripto2/Screenshot%202023-01-08%20044346.png)
+![](https://raw.githubusercontent.com/Baiim/UAS_kriptografi/master/img/chipper.png)
 
 
 Plainteks setelah didekrip :
 
 
 
-![](https://raw.githubusercontent.com/Baiim/kriptografi-2/master/kripto2/Screenshot%202023-01-08%20044402.png)
+![](https://raw.githubusercontent.com/Baiim/UAS_kriptografi/master/img/dekrip.png)
